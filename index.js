@@ -59,5 +59,6 @@ function runPGM(pgm) {
 
 module.exports = {
 	getConnection,
-	runPGM
+    runPGM,
+    configure
 }
